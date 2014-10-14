@@ -2,7 +2,7 @@
 ### 台灣國立成功大學碩博士用畢業論文XeLaTex模版 (樣板用) ###
 
 ### Source code
-[Source](https://github.com/wengan-li/ncku-thesis-templete)
+[Source 程式碼](https://github.com/wengan-li/ncku-thesis-templete)
 
 ### Version
 v1.0.1
